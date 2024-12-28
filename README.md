@@ -89,6 +89,23 @@ Here are some of the projects I've worked on:
   - 5-day weather forecast
   - Location-based weather information
   - Search functionality
+ 
+## 📜 Certifications
+
+### [Certification Name](#)
+- **Issued by:** Issuing Organization
+- **Date:** MM/YYYY
+- **Description:** Brief description of what the certification covers.
+
+### [Certification Name](#)
+- **Issued by:** Issuing Organization
+- **Date:** MM/YYYY
+- **Description:** Brief description of what the certification covers.
+
+### [Certification Name](#)
+- **Issued by:** Issuing Organization
+- **Date:** MM/YYYY
+- **Description:** Brief description of what the certification covers.
 
 ## 📊 GitHub Stats
 
