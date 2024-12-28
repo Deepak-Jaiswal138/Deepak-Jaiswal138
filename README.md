@@ -6,21 +6,24 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 - 🌱 I’m currently learning and exploring advanced topics in machine learning and cloud computing.
 - 💬 Ask me about web development, backend technologies, and software engineering principles.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [deepakmukundpur@gmail.com](mailto:deepakmukundpur@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## 🛠️ Skills
 
 ### Programming Languages
-- **Python:** Experienced in writing clean and efficient code, working with libraries like Pandas, NumPy, and TensorFlow.
+- **React:** Experienced in writing clean and efficient code, working with libraries like Redux, Etherium, and Saga.
 - **JavaScript:** Proficient in both frontend (React, Angular) and backend (Node.js, Express) development.
-- **Java:** Strong understanding of OOP principles, with experience in building enterprise-level applications.
-- **C++:** Solid grasp of data structures and algorithms.
+- **NodeJS:** Strong understanding of OOP principles, with experience in building enterprise-level applications.
+- **Typescript:** Solid grasp of data structures and algorithms.
 
 ### Web Development
 - **Frontend:** HTML, CSS, JavaScript, React, Angular, Bootstrap.
-- **Backend:** Node.js, Express, Django, Flask.
+- **Backend:** Node.js, Express.
 - **Database Management:** MySQL, MongoDB, PostgreSQL.
+
+### Mobile App Development
+- **Language:** React Native, Google Maps, Redux etc.
 
 ### Tools & Technologies
 - **Version Control:** Git, GitHub.
@@ -92,17 +95,17 @@ Here are some of the projects I've worked on:
  
 ## 📜 Certifications
 
-### [Certification Name](#)
-- **Issued by:** Issuing Organization
-- **Date:** MM/YYYY
+### [Mobile App Workshop](#)
+- **Issued by:** Appnimi
+- **Date:** 04/2019
 - **Description:** Brief description of what the certification covers.
 
-### [Certification Name](#)
-- **Issued by:** Issuing Organization
-- **Date:** MM/YYYY
+### [Ethical Hacking](#)
+- **Issued by:** IIIT ALLAHABAD
+- **Date:** 06/2018
 - **Description:** Brief description of what the certification covers.
 
-### [Certification Name](#)
+### [HyBrid Mobile App Development](#)
 - **Issued by:** Issuing Organization
 - **Date:** MM/YYYY
 - **Description:** Brief description of what the certification covers.
@@ -125,9 +128,9 @@ Here are some of the projects I've worked on:
 
 ## 📫 Contact Me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** [deepakmukundpur@gmail.com](mailto:your-email@example.com)
+- **LinkedIn:** [DeepakJaiswal](https://www.linkedin.com/in/deepakjaiswal)
+- **Twitter:** [@deepak](https://twitter.com/yourhandle)
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
