@@ -1,4 +1,12 @@
-# Hi there, I'm Deepak Jaiswal! 👋
+<h1 align="center">👋 Hey there, I'm Deepak Jaiswal</h1>
+<h3 align="center">💻 Full-Stack Developer | Project Management Expert | 4+ Years of Experience in Building Scalable Web Apps</h3>
+
+<p align="center">
+  <a href="mailto:deepakmukundpur@gmail.com"><img src="https://img.shields.io/badge/Email-deepakjaiswal6392%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/deepakjaiswal"><img src="https://img.shields.io/badge/LinkedIn-Deepak%20Jaiswal-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Deepak-Jaiswal138"><img src="https://img.shields.io/github/followers/Deepak-Jaiswal138?label=Follow%20on%20GitHub&style=for-the-badge&logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Deepak-Jaiswal138&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building impactful and efficient software solutions. I enjoy working on diverse projects, learning new technologies, and contributing to the developer community.
 
@@ -8,6 +16,58 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 💬 Ask me about web development, backend technologies, and software engineering principles.
 - 📫 How to reach me: [deepakmukundpur@gmail.com](mailto:deepakmukundpur@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DBFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+#### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+</p>
+
+#### ☁️ DevOps / Cloud / Deployment
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-181717?style=flat&logo=githubactions&logoColor=white" />
+</p>
+
+#### 🧰 Tools & Others
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-0088FE?style=flat&logo=recharts&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
 
 ## 🛠️ Skills
 
