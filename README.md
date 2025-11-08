@@ -2,8 +2,8 @@
 <h3 align="center">💻 Full-Stack Developer | Project Management Expert | 4+ Years of Experience in Building Scalable Web Apps</h3>
 
 <p align="center">
-  <a href="mailto:deepakmukundpur@gmail.com"><img src="https://img.shields.io/badge/Email-deepakjaiswal6392%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/deepakjaiswal"><img src="https://img.shields.io/badge/LinkedIn-Deepak%20Jaiswal-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:deepakmukundpur@gmail.com"><img src="https://img.shields.io/badge/Email-deepakmukundpur%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/deepakmukundpur"><img src="https://img.shields.io/badge/LinkedIn-Deepak%20Jaiswal-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/Deepak-Jaiswal138"><img src="https://img.shields.io/github/followers/Deepak-Jaiswal138?label=Follow%20on%20GitHub&style=for-the-badge&logo=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=Deepak-Jaiswal138&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
